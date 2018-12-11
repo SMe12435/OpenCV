@@ -12,6 +12,7 @@ You will only need the file and image  - 'test.jpeg'.
 Only 'tetris.png' is required.
 
 ### For 003_Mobile_Document_Scanner.ipynb
-You will need a module called 'pyimagesearch' and 'doc1.jpeg'
+You will need a module called 'pyimagesearch' and 'doc1.jpeg'.
+Unzip the 'pyimagesearch.zip' file and paste it in the same folder as your Python file.
 
 
