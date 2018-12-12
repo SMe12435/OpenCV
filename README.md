@@ -15,4 +15,5 @@ Only 'tetris.png' is required.
 You will need a module called 'pyimagesearch' and 'doc1.jpeg'.
 Unzip the 'pyimagesearch.zip' file and paste it in the same folder as your Python file.
 
-
+### For 004_OMR_Scanner.ipynb
+Only 'test_05.png' image is required for the same.
