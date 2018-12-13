@@ -17,3 +17,8 @@ Unzip the 'pyimagesearch.zip' file and paste it in the same folder as your Pytho
 
 ### For 004_OMR_Scanner.ipynb
 Only 'test_05.png' image is required for the same.
+
+### For 005_Object_Tracking.py
+A 'red_dot.png' file is given to test the tracker. The current tracker is made for detecting a red dot.. open the image in any other device or google for any red dot. The model shall work.
+
+
