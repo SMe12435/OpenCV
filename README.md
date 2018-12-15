@@ -21,4 +21,6 @@ Only 'test_05.png' image is required for the same.
 ### For 005_Object_Tracking.py
 A 'red_dot.png' file is given to test the tracker. The current tracker is made for detecting a red dot.. open the image in any other device or google for any red dot. The model shall work.
 
+### For 006_Measuring_Size.py
+You need to provide the width of leftmost object present in the image as reference. I used 'measure.jpeg' image to test the working. It has correctness upto 93-95%.
 
