@@ -6,7 +6,7 @@ Started to Learn OpenCV with Python
 `pip install --upgrade imutils` can be used for the same.
 
 ## NOTE
-I have made .ipnyb files so that one can see what is going on step by step. Change the image importing statement to args["image"] instead of image file name while exporting the ipnyb file to python file.
+I have made .ipnyb files so that one can see what is going on step by step. Change `image = cv2.imread("doc1.jpeg")` to  `image = cv2.imread(args["image"])` instead of image file name while exporting the ipnyb file to python file.
 
 
 ### For 001_Introduction.ipnyb
