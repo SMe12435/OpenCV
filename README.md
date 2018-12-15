@@ -5,6 +5,10 @@ Started to Learn OpenCV with Python
 2. Imutils v0.5.2 - grab_contours() only works for v0.5.2... so make sure you have this version.
 `pip install --upgrade imutils` can be used for the same.
 
+## NOTE
+I have made .ipnyb files so that one can see what is going on step by step. Change the image importing statement to args["image"] instead of image file name while exporting the ipnyb file to python file.
+
+
 ### For 001_Introduction.ipnyb
 You will only need the file and image  - 'test.jpeg'.
 
