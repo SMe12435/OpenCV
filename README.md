@@ -1,4 +1,4 @@
-# OpenCV
+# OpenCV 7-day Challenge
 Started to Learn OpenCV with Python
 ## Requirements:
 1. OpenCv for Python
